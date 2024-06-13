@@ -1,5 +1,5 @@
 # Gbfuture_react
-# 自己写着玩的react后台
+## 自己写着玩的react后台(react+ts+antd)
 
 ## 安装依赖
 ### npm install

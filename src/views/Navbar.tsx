@@ -1,3 +1,9 @@
+/**
+ * @Author: TrentonLi
+ * @Date: 2024/6/27
+ * @LastEditors: TrentonLi
+ * @Description: dec
+ */
 import React,{Component} from "react";
 
 export default class Navbar extends Component{

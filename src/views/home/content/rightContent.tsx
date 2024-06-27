@@ -1,3 +1,9 @@
+/**
+ * @Author: TrentonLi
+ * @Date: 2024/6/27
+ * @LastEditors: TrentonLi
+ * @Description: dec
+ */
 import {Button} from 'antd'
 import MyComp from '../../../components/subComponent'
 import React from 'react';

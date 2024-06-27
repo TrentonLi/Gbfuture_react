@@ -1,3 +1,9 @@
+/**
+ * @Author: TrentonLi
+ * @Date: 2024/6/27
+ * @LastEditors: TrentonLi
+ * @Description: dec
+ */
 import {Col, Row,message} from "antd";
 import LeftContent from "./leftContent";
 import RightContent from "./rightContent";

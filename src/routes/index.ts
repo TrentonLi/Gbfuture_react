@@ -1,3 +1,9 @@
+/**
+ * @Author: TrentonLi
+ * @Date: 2024/6/27
+ * @LastEditors: TrentonLi
+ * @Description: dec
+ */
 import Home from "../views/Home";
 import Contact from "../views/Contact";
 import About from "../views/About";

@@ -1,3 +1,9 @@
+/**
+ * @Author: TrentonLi
+ * @Date: 2024/6/27
+ * @LastEditors: TrentonLi
+ * @Description: dec
+ */
 import home from '../../../assets/image/首页.png'
 import {Col, Row, Avatar, Space, Tooltip, Popover} from "antd";
 import { UserOutlined } from '@ant-design/icons';

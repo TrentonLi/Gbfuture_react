@@ -1,3 +1,9 @@
+/**
+ * @Author: TrentonLi
+ * @Date: 2024/6/27
+ * @LastEditors: TrentonLi
+ * @Description: dec
+ */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
@@ -16,9 +22,3 @@ root.render(
   </React.StrictMode>
 );
 reportWebVitals();
-/**
- * @Author: TrentonLi
- * @Date: 2024/6/27
- * @LastEditors: TrentonLi
- * @Description: dec
- */

@@ -55,7 +55,7 @@ const Login: React.FC = () => {
           {contextHolder}
           <div className="loginBox">
              <FloatButton onClick={() => warning()}/>
-             <div className="body">
+             <div className="form-container">
                 <Form
                     name="basic"
                     labelCol={{ span: 5 }}

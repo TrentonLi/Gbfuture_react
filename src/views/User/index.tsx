@@ -31,8 +31,9 @@ export default function User() {
              <Row>
                 <Col className="contentCol" span={6}>密码</Col>
                 <Col className="contentCol" span={18}>
-                   {isShow ? <span className="cipher" onClick={changeShow}>admin123</span> : null}
-                   {!isShow ? <span className="cipher" onClick={changeShow}>******</span> : null}
+                    <span className="cipher" onClick={changeShow}>
+                        {isShow ? 'admin123' : '******'}
+                    </span>
                 </Col>
              </Row>
           </div>
